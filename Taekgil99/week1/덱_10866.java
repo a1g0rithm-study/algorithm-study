@@ -1,8 +1,10 @@
 package Taekgil99.week1;
 
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
 import java.util.Deque;
 import java.util.LinkedList;
 
@@ -21,10 +23,11 @@ public class 덱_10866 {
 	 * 입력
 	 * : 명령의 수 N (1 ≤ N ≤ 10,000)
 	 */
-	static StringBuilder sb = new StringBuilder();
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+		StringBuilder sb = new StringBuilder();
 
 		// 덱 자료구조 생성
 		Deque<Integer> de = new LinkedList<>();
@@ -75,6 +78,8 @@ public class 덱_10866 {
 		}
 
 		// 명령 결과 출력
-		System.out.println(sb);
+		bw.write(sb + "");
+		bw.flush();
+		bw.close();
 	}
 }
