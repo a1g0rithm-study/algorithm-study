@@ -50,7 +50,6 @@
   - [카드2 2164](https://www.acmicpc.net/problem/2164)
   - [덱 10866](https://www.acmicpc.net/problem/10866)
   - [쇠막대기 10799](https://www.acmicpc.net/problem/10799)
-  - 
 - [x] 준오 :
   - [스택 10828](https://www.acmicpc.net/problem/10828)
   - [큐 10825](https://www.acmicpc.net/problem/10825)
