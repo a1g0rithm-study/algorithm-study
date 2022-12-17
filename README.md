@@ -38,3 +38,24 @@
 5. 스터디 끝나면 main 브랜치로 merge
 
 ## 진행상황
+
+### 12월  셋째주[1회차]
+
+주제 :
+
+- [스택](https://www.acmicpc.net/problem/tag/71)
+- [큐](https://www.acmicpc.net/problem/tag/72)
+
+- [x] 재원 :
+  - [카드2 2164](https://www.acmicpc.net/problem/2164)
+  - [덱 10866](https://www.acmicpc.net/problem/10866)
+  - [쇠막대기 10799](https://www.acmicpc.net/problem/10799)
+  - 
+- [x] 준오 :
+  - [스택 10828](https://www.acmicpc.net/problem/10828)
+  - [큐 10825](https://www.acmicpc.net/problem/10825)
+  - [카드2_2164](https://www.acmicpc.net/problem/2164)
+  - [덱 10866](https://www.acmicpc.net/problem/10866)
+- [x] 효준 :
+  - [스택수열 1874](https://www.acmicpc.net/problem/1874)
+  - [프린터_큐 1966](https://www.acmicpc.net/problem/1966)
