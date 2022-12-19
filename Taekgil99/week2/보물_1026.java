@@ -48,7 +48,7 @@ public class 보물_1026 {
 		System.out.println(result);
 	}
 
-	public static Integer[] getIntegers(String[] arr) {
+	private static Integer[] getIntegers(String[] arr) {
 		return Arrays.stream(arr)
 			.map(Integer::parseInt)
 			.toArray(Integer[]::new);
