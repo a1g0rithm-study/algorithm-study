@@ -20,6 +20,11 @@ public class 타겟넘버 {
 
 	public static int solution(int[] numbers, int target) {
 		dfs(0, 0, numbers, target);
+		/*
+		-1+1+1+1+1 = 3 -> 처럼 처음 원소가 음수인 경우도 존재
+		따라서 dfs(numbers[0], 0, numbers, target)가 아닌
+		dfs(0, 0, numbers, target)으로 시작 -> "0-1+1+1+1+1"
+		*/
 		return answer;
 	}
 
